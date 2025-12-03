@@ -1,16 +1,45 @@
-## Hi there 👋
+👋 Hi, I'm Lakshya
+👨‍💻 Who am I?
 
-<!--
-**lakshyashahi0712/lakshyashahi0712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Developer who enjoys writing clean, efficient code and building software that actually solves problems.
+Curious by nature, always learning, and always improving.
 
-Here are some ideas to get you started:
+🔧 What am I working on?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Strengthening my skills in system-level programming and software architecture
+
+Building projects using JavaScript, C, and Node.js
+
+Learning backend development and exploring scalable systems
+
+Preparing for open-source contributions and long-term dev skills
+
+🛠️ Tools & Technologies I Use
+
+Languages:
+
+JavaScript, C
+
+Frameworks / Runtime:
+
+Node.js, Express
+
+Database:
+
+MongoDB
+
+Tools:
+
+Git & GitHub
+
+VS Code
+
+Linux (beginner)
+
+📫 How to reach me
+
+Email: lakshyashahi0712@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/lakshya-shahi-739a53334/
+
+GitHub: you're already here 🚀
