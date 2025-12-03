@@ -2,7 +2,7 @@
 👨‍💻 Who am I?
 
 I'm a Software Developer who enjoys writing clean, efficient code and building software that actually solves problems.
-Curious by nature, always learning, and always improving.
+Curious by nature — always learning and always improving.
 
 🔧 What am I working on?
 
@@ -15,20 +15,23 @@ Learning backend development and exploring scalable systems
 Preparing for open-source contributions and long-term dev skills
 
 🛠️ Tools & Technologies I Use
+Languages
 
-Languages:
+JavaScript
 
-JavaScript, C
+C
 
-Frameworks / Runtime:
+Frameworks / Runtime
 
-Node.js, Express
+Node.js
 
-Database:
+Express
+
+Database
 
 MongoDB
 
-Tools:
+Tools
 
 Git & GitHub
 
@@ -38,8 +41,8 @@ Linux (beginner)
 
 📫 How to reach me
 
-Email: lakshyashahi0712@gmail.com
+Email: your-email@example.com
 
-LinkedIn: https://www.linkedin.com/in/lakshya-shahi-739a53334/
+LinkedIn: your-linkedin-url
 
 GitHub: you're already here 🚀
